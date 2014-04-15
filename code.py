@@ -12,7 +12,7 @@ import cookielib
 import time
 # url = 'http://airportcode.911cha.com/'
 url = 'http://airportcode.jyc.la/'
-host_url = 'http://local.ituxing.com/airLineCode/insertCode'
+host_url = 'http://www.aililuo.com/demo/insertCode'
 
 def sendData(args, fo):
 	try:
